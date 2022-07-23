@@ -22,6 +22,6 @@
   * *留給新生 :)*
 ## 我們的社群媒體
 * **IG**
-  * [https://instagram.com/zzis_111](zzis-111)
+  * zzis_111 <br> [https://instagram.com/zzis_111](zzis-111)
 * **DC**
-  * [https://discord.gg/kfxtBCCw7G](中正資研)
+  * 中正資研 <br> [https://discord.gg/kfxtBCCw7G](中正資研)
